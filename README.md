@@ -1,6 +1,6 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Simran 👋
 
-### 📄 [View / Download My Resume (PDF)](./Simran-Aggarwal-ATS.pdf)
+## 📄 [View / Download My Resume (PDF)](./Simran-Aggarwal-ATS.pdf)
 
 ---
 
