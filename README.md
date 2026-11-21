@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
+
+### 📄 [View / Download My Resume (PDF)](./Simran-Aggarwal-ATS.pdf)
+
+---
+
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/aggarwalsimran) • [Email](mailto:aggarwalsimran103@gmail.com)
 
 <!--
 **simranaggarwal/simranaggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
